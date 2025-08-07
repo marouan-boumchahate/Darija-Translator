@@ -4,7 +4,7 @@ An AI-powered translator specifically designed for Moroccan Darija (Moroccan Ara
 
 ## 🌟 Features
 
-- **Contextual Translation**: Translates by meaning, not word-for-word (e.g., "زيد نقصط" → "decrease more" not "add less")
+- **Contextual Translation**: Translates by meaning, not word-for-word (e.g., "زيد نقص" → "decrease more" not "add less")
 - **Darija-Focused**: Specialized in Moroccan Arabic with cultural context understanding
 - **Multi-language Support**: Translates between Darija and:
   - 🇸🇦 Modern Standard Arabic (العربية الفصحى)
